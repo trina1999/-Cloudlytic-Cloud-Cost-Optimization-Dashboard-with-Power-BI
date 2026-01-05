@@ -6,7 +6,7 @@
 
 A comprehensive Power BI dashboard for comparing and optimizing cloud infrastructure costs between Microsoft Azure and AWS.
 
-##![Cloudlytic Dashboard](https://via.placeholder.com/800x400?text=Cloudlytic+Dashboard+Preview)
+![Cloudlytic Dashboard](https://via.placeholder.com/800x400?text=Cloudlytic+Dashboard+Preview)
 
 ## Features
 
@@ -223,4 +223,5 @@ Coming soon - build the dashboard and add your own!
 ---
 
 Made with ❤️ for cloud cost optimization
+
 
